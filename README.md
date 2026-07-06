@@ -50,7 +50,7 @@ Building scalable backend systems, solving DSA problems, and developing producti
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,linux" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux" />
 </p>
 
 ### Tools
@@ -58,59 +58,6 @@ Building scalable backend systems, solving DSA problems, and developing producti
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" />
 </p>
-
----
-
-# 🚀 Featured Projects
-
-## 🚀 GigFlow CRM
-
-Enterprise CRM platform inspired by Salesforce.
-
-### Features
-
-- Secure JWT Authentication
-- Role-Based Access Control (RBAC)
-- Customer & Lead Management
-- Opportunity Pipeline
-- Task & Activity Tracking
-- RESTful APIs
-- PostgreSQL Database
-- Spring Security
-- Dockerized Deployment
-
-**Tech Stack**
-
-```
-Java • Spring Boot • PostgreSQL • JWT
-Spring Security • Docker • React
-```
-
----
-
-## 🌾 FarmGo
-
-Smart poultry management platform for modern farms.
-
-### Features
-
-- Farm Dashboard
-- Batch Management
-- Feed Tracking
-- Medicine Records
-- Expense Monitoring
-- Profit Analytics
-- Employee Management
-- Reports & Insights
-
-**Tech Stack**
-
-```
-Java • Spring Boot
-PostgreSQL
-React
-Docker
-```
 
 ---
 
@@ -132,51 +79,17 @@ Docker
 
 <p align="left">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Amitgupta00001/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/Amitgupta0001">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.codeforces.com/">
+<a href="https://codeforces.com/profile/Amitgupta1503">
 <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
 </a>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </p>
 
@@ -186,15 +99,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <p>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/amitgupta0001">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="amitgupta001503@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Amitgupta0001">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
