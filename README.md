@@ -26,13 +26,13 @@ Building scalable backend systems, solving DSA problems, and developing producti
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,js" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=springboot,nodejs" />
 </p>
 
 ### Frontend
@@ -56,7 +56,7 @@ Building scalable backend systems, solving DSA problems, and developing producti
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
 </p>
 
 ---
@@ -67,9 +67,7 @@ Building scalable backend systems, solving DSA problems, and developing producti
 - Microservices
 - Redis
 - Docker
-- Kubernetes
 - CI/CD
-- AWS
 - Design Patterns
 - Spring Security
 
