@@ -32,7 +32,7 @@ Building scalable backend systems, solving DSA problems, and developing producti
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=springboot,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
 ### Frontend
@@ -50,7 +50,7 @@ Building scalable backend systems, solving DSA problems, and developing producti
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,vercel" />
 </p>
 
 ### Tools
