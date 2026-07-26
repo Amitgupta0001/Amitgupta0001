@@ -1,134 +1,118 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Amit+Kumar+Gupta;Java+Backend+Developer;Spring+Boot+%26+FastAPI+Engineer;Problem+Solver+%7C+250%2B+DSA" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-  Final-Year B.E. Computer Science Engineering Student | Spring Boot & FastAPI Developer
-</h3>
+<h1 align="center">Amit Kumar Gupta</h1>
 
 <p align="center">
-  Building high-performance scalable backend systems, transaction orchestrators, and AI-driven applications.
+  <strong>Backend Engineer</strong> · Java / Spring Boot · Python / FastAPI · System Design
+</p>
+
+<p align="center">
+  Building production-grade backend systems with Java, Spring Boot, PostgreSQL, and FastAPI.<br/>
+  Focused on distributed systems, clean architecture, transactional consistency, and scalable software.
+</p>
+
+<p align="center">
+  <code>Java</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>FastAPI</code> · <code>Docker</code> · <code>React</code> · <code>Python</code> · <code>JUnit 5</code>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amitgupta0001/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:amitgupta001503@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://leetcode.com/u/Amitgupta00001/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://codeforces.com/profile/Amitgupta1503">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://github.com/Amitgupta0001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 **Education**: B.E. Computer Science & Engineering at **Dayananda Sagar Academy of Technology & Management, Bengaluru** (2023 – 2027) | **CGPA: 8.84 / 10**
-- 💻 **Backend Focus**: Specialized in enterprise **Java 21 / Spring Boot 4**, **Python / FastAPI**, and transactional SQL databases.
-- ⚡ **Key Strengths**: Scalable microservices architecture, state machine orchestrators, RESTful APIs, JWT authentication, & automated testing (JUnit 5, Pytest).
-- 🧠 **Competitive Programming**: **250+ DSA problems** solved across platforms (207+ on LeetCode with 1580 peak rating).
-- 🎯 **Career Goal**: Software Development Engineer (SDE) specializing in Backend Systems & Software Architecture.
+Final-year Computer Science student at DSATM, Bengaluru (CGPA: 8.84/10). I work primarily with **Java/Spring Boot** and **Python/FastAPI** to design backend systems — REST APIs, transactional workflows, authentication layers, and state machine orchestrators.
+
+I care about clean layered architecture, writing tests that catch real bugs, and handling edge cases properly. 250+ competitive programming problems solved across LeetCode and Codeforces.
 
 ---
 
-## 🛠 Technical Stack
+## 🔨 Currently Building
 
-### Languages & Core CS
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,postgres,mysql" />
-</p>
-
-### Frameworks & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,react,mongodb" />
-</p>
-
-### DevOps, Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,postman,vercel,vscode,idea" />
-</p>
+Building [**AmazonScale**](https://github.com/Amitgupta0001/amazon-scale-backend) — a production-inspired e-commerce backend focused on transactional consistency, secure JWT/RBAC authentication, and scalable layered service architecture using Java 21, Spring Boot, and PostgreSQL.
 
 ---
 
-## 💻 Featured Projects
+## Projects
 
-### 🛍️ [AmazonScale — Enterprise E-Commerce Backend](https://github.com/Amitgupta0001/amazon-scale-backend) `🟢 Currently Working On / In Active Development`
-[![Repository](https://img.shields.io/badge/GitHub-amazon--scale--backend-blue?style=flat-square&logo=github)](https://github.com/Amitgupta0001/amazon-scale-backend)
-[![Status](https://img.shields.io/badge/Status-Currently%20Working%20On-success?style=flat-square)](https://github.com/Amitgupta0001/amazon-scale-backend)
+### [AmazonScale — E-Commerce Backend Platform](https://github.com/Amitgupta0001/amazon-scale-backend)
+`Java 21` `Spring Boot 4` `Spring Security` `JWT` `PostgreSQL` `JUnit 5`
 
-> **Java 21 • Spring Boot 4 • Spring Security • JWT • PostgreSQL • JUnit 5**
-- **Active Development**: Production-grade enterprise e-commerce backend platform actively under engineering.
-- Architected layered backend with **20+ REST APIs**, role-based access control (**RBAC** for Admin, Seller, Customer), and BCrypt password encryption.
-- Developed robust **Order state machine** (`PENDING` → `CONFIRMED` → `SHIPPED` → `DELIVERED`) with automated 18% GST tax calculation and transactional stock allocation.
-- Built comprehensive **Payment system** with 43 automated tests across 12 test classes (**82+ overall test suite**).
+Enterprise e-commerce backend with clean layered architecture (Controller → Service → Repository), designed to handle real order and payment transaction flows.
 
-### 🔄 [RESTORE — Stateful Transaction Orchestrator](https://github.com/Amitgupta0001/RESTORE)
-[![Repository](https://img.shields.io/badge/GitHub-RESTORE-black?style=flat-square&logo=github)](https://github.com/Amitgupta0001/RESTORE)
+- Implemented JWT-based authentication with Role-Based Access Control (Admin, Seller, Customer) using Spring Security and BCrypt password hashing
+- Designed Order lifecycle state machine (`PENDING → CONFIRMED → SHIPPED → DELIVERED`) with automated tax calculation and transactional inventory deduction using `@Transactional`
+- Engineered Payment module with state transitions (`PENDING → SUCCESS → REFUNDED`) and idempotent processing
+- Wrote 82+ automated tests (JUnit 5 + MockMvc) covering controller, service, and security layers with structured global exception handling across 20+ REST endpoints
 
-> **Python • FastAPI • PostgreSQL • Docker • Pytest • System Design**
-- Designed a stateful, human-in-the-loop refund engine with guaranteed **idempotency** via DB unique constraints.
-- Enabled safe concurrent worker polling using PostgreSQL `FOR UPDATE SKIP LOCKED`, pausable execution, 48h auto-timeout, and **Dead Letter Queue (DLQ)** with 3 retries.
-- Achieved **100% test coverage** for domain state machines and containerized services via Docker Compose.
+### [RESTORE — Transaction Orchestrator](https://github.com/Amitgupta0001/RESTORE)
+`Python` `FastAPI` `PostgreSQL` `Docker` `Pytest`
 
-### 🛡️ [King Phisher AI — Cyber Phishing Detection Ecosystem](https://github.com/Amitgupta0001/KingPhisher)
-[![Repository](https://img.shields.io/badge/GitHub-KingPhisher-purple?style=flat-square&logo=github)](https://github.com/Amitgupta0001/KingPhisher)
+Stateful refund processing engine with exactly-once semantics, concurrent worker safety, and human-in-the-loop approval flows.
 
-> **Python • FastAPI • scikit-learn • Chrome Extension (Manifest V3) • SQLAlchemy**
-- Developed a **Random Forest classifier** trained on **600,000+ labeled email & URL samples** extracting 12+ security indicators.
-- Built a Chrome extension with real-time Gmail DOM inspection via `MutationObserver` delivering **~150ms response latency**.
-- Integrated JWT authentication, scan history persistence, and zero-trust API boundaries.
+- Implemented idempotent request handling using database-level `UNIQUE` constraints on idempotency keys
+- Designed concurrent worker processing with PostgreSQL `FOR UPDATE SKIP LOCKED` to prevent duplicate claim of pending transactions
+- Built dead letter queue with configurable retry policy (3 retries) and 48-hour auto-timeout for stalled requests
+- Containerized with Docker Compose; full unit test coverage for domain state machine logic
 
-### 📄 [Modern Resume & Portfolio Web Application](https://github.com/Amitgupta0001/Resume)
-[![Repository](https://img.shields.io/badge/GitHub-Resume-orange?style=flat-square&logo=github)](https://github.com/Amitgupta0001/Resume)
+### [King Phisher AI — Phishing Detection System](https://github.com/Amitgupta0001/KingPhisher)
+`Python` `FastAPI` `scikit-learn` `Chrome Extension (Manifest V3)` `SQLAlchemy`
 
-> **HTML5 • CSS3 Glassmorphic UI • ES6+ JavaScript • PDF Engine**
-- Built an interactive glassmorphic web app with particle canvas background, theme switcher persistence, and filterable skill grid.
-- Embedded inline PDF viewer with fullscreen preview modal, download fallback handlers, and interactive mailer system.
+Full-stack phishing detection platform combining a trained ML classifier with a Chrome extension for real-time email and URL analysis.
+
+- Trained Random Forest classifier on 600K+ labeled samples with 12 engineered features for URL structure and email header analysis
+- Developed Manifest V3 Chrome extension with Gmail DOM monitoring via `MutationObserver` for inline threat detection
+- Implemented JWT authentication, SQLAlchemy-backed scan history, and ~150ms average API response time
+
+### [Portfolio & Resume Web Application](https://github.com/Amitgupta0001/Resume)
+`HTML5` `CSS3` `JavaScript (ES6+)` `SVG Procedural Art` `Glassmorphism`
+
+Fully responsive developer portfolio engineered from scratch — zero frameworks, zero dependencies, modular vanilla JS architecture.
+
+- Architected reusable component system (theme manager, toast notifications, skill filters, resume modal) using IIFE-scoped modules with clean separation of concerns
+- Implemented `IntersectionObserver`-driven lazy animations, `HEAD`-request resume download validation with fallback handlers, and accessible keyboard navigation across all interactive elements
+- Engineered interactive particle mesh canvas with mouse-repulsion physics and dynamic line connections, plus 3D magnetic tilt hover with `perspective(800px)` transforms
+- Built procedural SVG paint splash achievement cards using `feTurbulence` + `feDisplacementMap` filters, multi-layer frosted glass, noise texture overlays, and animated conic-gradient borders
+- Dark/light theme persistence via `localStorage`, responsive layouts across desktop/tablet/mobile, and clipboard-copy toast notification system
 
 ---
 
-## 📊 GitHub & Coding Stats
+## Achievements
+
+| | |
+|:---|:---|
+| **LeetCode** | 207+ problems solved · Peak Rating: 1580 |
+| **Competitive Programming** | 250+ problems across LeetCode & Codeforces |
+| **Academics** | B.E. CSE — CGPA: 8.84/10 · CBSE XII: 90.6% · CBSE X: 97.0% |
+
+---
+
+## Tech Stack
+
+**Languages:** Java, Python, C++, C, JavaScript, SQL
+
+**Backend:** Spring Boot, Spring Security, Spring Data JPA, Hibernate, FastAPI, Node.js
+
+**Frontend:** React, HTML5, CSS3
+
+**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
+
+**DevOps & Tools:** Docker, Git, GitHub Actions, Linux, Postman, Render, Vercel
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amitgupta0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitgupta0001&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amitgupta0001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitgupta0001&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amitgupta0001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Connect & Collaborate
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/amitgupta0001/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:amitgupta001503@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/u/Amitgupta00001/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://github.com/Amitgupta0001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<br />
-
-<p align="center">
-  <i>"Code with purpose. Learn continuously. Build systems that scale."</i>
-</p>
-
